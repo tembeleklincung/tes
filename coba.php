@@ -2,7 +2,7 @@
 
 error_reporting(0);
 include ("func.php");
-echo "\e            sing anyar           \n";
+echo "\e        SING ANYAR Voucher 15K           \n";
 echo "\e ben cepet nglebokno kodene \n";
 echo "\n";
 nope:
