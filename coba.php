@@ -16,7 +16,7 @@ if ($cek == false)
     }
   else
     {
-echo "\e[!] disiapno otne ojo  lali\n";
+echo "\e[!] disiapno otpne ojo  lali\n";
 sleep(5);
 $register = register($nope);
 if ($register == false)
